@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
 
-# DK Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# DK Music Bot <img src="https://img.shields.io/github/v/release/Dk143gurjar/Dilkhush?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [DK Music Bot](https://github.com/Dk143gurjar/Dilkhush) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
@@ -10,9 +10,9 @@
 * Multi-Language support
 
 
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
+# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/Dilkhush/)]
 
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+> The official [documentation site](https://notreallyshikhar.gitbook.io/Dilkhush/) contains a lot of information. The best place to start is from the deployment section.
 
 ## ⚠️ Heroku / Okteto / Railway
 
